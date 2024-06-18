@@ -2,7 +2,7 @@
 
 [Link to problem](https://cssbattle.dev/play/vSQWqiGdt1BInPQnU7eZ)
 
-![target](https://cssbattle.dev/play/vSQWqiGdt1BInPQnU7eZ)
+![target](https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_EoyIpWP.png?alt=media)
 
 # Resolve time : 6 Minute
 
