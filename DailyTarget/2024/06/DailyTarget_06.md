@@ -2,7 +2,7 @@
 
 [Link to problem](https://cssbattle.dev/play/cY2DIn3yLxSML7LIHL0D)
 
-![target](https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_nDZC2bh.png?alt=media)
+![target](https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Ix6s0Ru.png?alt=media)
 
 
 ```
