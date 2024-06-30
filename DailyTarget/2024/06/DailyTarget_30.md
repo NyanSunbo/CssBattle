@@ -1,8 +1,8 @@
 # CSS Battle Daily Target - 2024/06/30
 
-[Link to problem](https://cssbattle.dev/play/pOqAtr2UeRY6Eo1zEqv5)
+[Link to problem](https://cssbattle.dev/play/4XeKjWpR9qfuTcmJLLdP)
 
-![target](https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_QhVKBq4.png?alt=media)
+![target](https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_PDuXkf3.png?alt=media)
 
 
 ```
