@@ -26,13 +26,10 @@ dl{
       width: 200px;
       height: 200px;
 }
-
 #st{
   margin:0px 0px;
   border: 30px dashed black;
   transform:scale(1)
 }
-
 </style>
-
 ```

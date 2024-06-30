@@ -31,7 +31,4 @@ h1{
   transform: translate(380px,60px);
 }
 </style>
-
-
-
 ```

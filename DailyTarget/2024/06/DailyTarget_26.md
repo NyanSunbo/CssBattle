@@ -51,7 +51,4 @@ div{
   transform:translate(162px,112px);
 }
 </style>
-
-
-
 ```

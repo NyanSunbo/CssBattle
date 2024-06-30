@@ -34,5 +34,4 @@ p{
   transform: translate(320px, -180px);
 }
 </style>
-
 ```

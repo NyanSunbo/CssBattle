@@ -45,6 +45,4 @@
     box-shadow: 50px 160px var(--b);
   }
 </style>
-
-
 ```

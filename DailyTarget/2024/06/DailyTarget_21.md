@@ -29,6 +29,4 @@
     box-shadow: 0px 100px #F48B26;
   }
 </style>
-
-
 ```

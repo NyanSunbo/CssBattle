@@ -50,5 +50,4 @@
   box-shadow: -175px 85px var(--w);
 }
 </style>
-
 ```

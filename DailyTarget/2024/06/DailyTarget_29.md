@@ -26,6 +26,4 @@ p{
 }
 *{margin:0;background:#F48B26;}
 </style>
-
-
 ```

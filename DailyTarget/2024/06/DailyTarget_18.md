@@ -33,5 +33,4 @@
     transform: translate(-70px, 130px);
   }
 </style>
-
 ```

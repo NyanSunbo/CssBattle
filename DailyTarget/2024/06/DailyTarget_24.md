@@ -42,6 +42,5 @@
     transform: translate(310px, -30px);
   }
 }
-
 </style>
 ```
