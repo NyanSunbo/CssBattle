@@ -7,24 +7,22 @@
 ```
 <p><dl><h1>
 <style>
-body{margin:-16px 90q;background:#F48B26;display:flex;flex-direction:inline}
+body{background:#F48B26;display:flex;flex-direction:inline}
 p,dl,h1 {
     width: 30px;
-    height: 100px;
+    height: 400px;
     background: #FEFF58;
   }
 p{
-  height:200px;
-  box-shadow: 200px 0px #FEFF58
+  margin: -208px 77px;
+  box-shadow: 200px 0px #FEFF58;
 }
 dl{
-  height:250px;
   box-shadow: 100px 0px #FEFF58;
-  margin: 16px 21q;
+  margin: -158px -60q;
 }
 h1{
-  height:400q;
-  margin: 0px 53q;
+  margin: 50px 53q;
 }
 </style>
 ```
