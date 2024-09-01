@@ -13,22 +13,18 @@ body{background:#4A9A86}
 div{
   width:250;
   height:50;
-    display:flex;
-    transform:translate(67px,51px);
-   }
+  display:flex;
+  transform:translate(67px,51px);
+}
 p{
     width:50;
     height:50;
-    background:#4A9A86;
 }
-p:nth-child(even){
-  background:#FAE29E;
-}
-#b>p{
-  background:#FAE29E;
-}
-#b>p:nth-child(even){
+p,#b>p:nth-child(even){
   background:#4A9A86;
+}
+p:nth-child(even),#b>p{
+  background:#FAE29E;
 }
 </style>
 ```
