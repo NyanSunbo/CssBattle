@@ -7,34 +7,35 @@
 
 ```
 <div><p id='a'><p id='b'><p id='c'><p id='d'></div>
-<div id='f'><p id='a'><p id='b'><p id='c'><p id='d'></div>
 <style>
 *{background:#9076D8}
 div{
   width:400;
   display:flex;
-  margin:152 75
-}
-#f{
-  transform:scaleY(-1);
-  margin:-362 75
+  margin:152 75;
 }
 p{
-  width:44;
-  height:93;
-  background:#F3EAD2
+  width:44px;
+  height:93px;
+  background:#F3EAD2; 
 }
 #a,#c{margin:5}
 #b,#d{margin:5 11}
-  
-#a{height:93}
-#b{height:63}
-#c{height:42}
-#d{height:27}  
-  
-#f #a{height:94}
-#f #b{height:64}
-#f #c{height:43}
-#f #d{height:28}
+#a{
+  height:93px;
+  box-shadow:0px -106.5px #F3EAD2;
+}
+#b{
+  height:63px;
+  box-shadow:0px -76.5px #F3EAD2;
+}
+#c{
+  height:42px;
+  box-shadow:0px -55.5px #F3EAD2;
+}
+#d{
+  height:27px;
+  box-shadow:0px -40.5px #F3EAD2;
+}
 </style>
 ```
