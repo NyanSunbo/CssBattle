@@ -6,14 +6,13 @@
 
 
 ```
-<p>
 <style>
-*{background:#5D3A3A}
-p{
+*{background:#B5E0BA}
+&{
     width:300;
     height:300;
-    background:#B5E0BA;
-    margin:100 192
+    background:#5D3A3A;
+    margin:92 192
 }
 </style>
 ```
