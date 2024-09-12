@@ -6,23 +6,20 @@
 
 
 ```
-<div><p><p id='a'></div>
+<p><p id='a'>
 <style>
 *{background:#F8D2D1}
-div{
-  display:flex;
-  margin:-74 87;
-  width:100%
-}
 p{
   height:100;
   width:100;
   background:#9076D8;
   border-radius:20px;
   box-shadow:0 300px #9076D8;
+  margin:-58 87
 }
 #a{
-  margin:16 10;
+  margin:-100 197
 }
 </style>
+
 ```
