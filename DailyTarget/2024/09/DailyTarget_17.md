@@ -9,16 +9,15 @@
 <h1><h2><p>
 <style>
 *{background:#EA9A52}
+h1,h2,p{height:100}
 h1{
     width:100;
-    height:100;
     background:#FCEBEB;
     border-radius:100%;
     margin:-8 142;
 }
 p,h2{
     width:200;
-    height:100;
     border:100px solid#515697;
     margin:8 -158
 }
