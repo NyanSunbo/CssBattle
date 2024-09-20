@@ -15,10 +15,10 @@ p,h1{
   background:#F5BB60;
 }
 p{
-  transform:rotate(120deg);
+  transform:rotate(120deg) translate(2px,0px);
 }
 h1{
-  transform:rotate(-60deg) translate(300px,-0px);
+  transform:rotate(-60deg) translate(300px,0px);
 }
 </style>
 ```
