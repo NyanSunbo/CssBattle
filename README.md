@@ -21,7 +21,7 @@ My solution provide match at least 99%. This might not readable but will improve
 
 # June 2024
 <div>
-   <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Ix6s0Ru.png?alt=media" alt="2024 june day 6" width="150" height="100">(https://github.com/NyanSunbo/CssBattle/blob/main/DailyTarget/2024/06/DailyTarget_06.md)
+   <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Ix6s0Ru.png?alt=media" alt="2024 june day 6" width="150" height="100">
    <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_089lanc.png?alt=media" alt="2024 june day 7" width="150" height="100">
    <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_9kGSC0s.png?alt=media" alt="2024 june day 8" width="150" height="100">
    <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_nDZC2bh.png?alt=media" alt="2024 june day 9" width="150" height="100">
