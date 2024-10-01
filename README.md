@@ -171,6 +171,57 @@ My solution provide match at least 99%. This might not readable but will improve
 </div>
 
 
+
+# September 2024
+<div>
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_HZGnehL.png?alt=media" alt="2024 september day 1" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_HZGnehL.png?alt=media" alt="2024 september day 2" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_zm7mplf.png?alt=media" alt="2024 september day 3" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_aIApkBL.png?alt=media" alt="2024 september day 4" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_uP8dWjO.png?alt=media" alt="2024 september day 5" width="150" height="100">
+</div>
+
+<div>
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_CHqQoVl.png?alt=media" alt="2024 september day 6" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_f1ylTGO.png?alt=media" alt="2024 september day 7" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_nG2GQJy.png?alt=media" alt="2024 september day 8" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_Ph1pLzx.png?alt=media" alt="2024 september day 9" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_nG9vqgd.png?alt=media" alt="2024 september day 10" width="150" height="100">
+</div>
+
+<div>
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_4K8mgTE.png?alt=media" alt="2024 september day 11" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_bFa3orE.png?alt=media" alt="2024 september day 12" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_kb790hK.png?alt=media" alt="2024 september day 13" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_TZ6iMTO.png?alt=media" alt="2024 september day 14" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_RRUbZFM.png?alt=media" alt="2024 september day 15" width="150" height="100">
+</div>
+
+<div>
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_ri9lubR.png?alt=media" alt="2024 september day 16" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_tY9OyWH.png?alt=media" alt="2024 september day 17" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_16ZQOH4.png?alt=media" alt="2024 september day 18" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_kAJO9tr.png?alt=media" alt="2024 september day 19" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_Xkx6qkW.png?alt=media" alt="2024 september day 20" width="150" height="100">
+</div>
+
+<div>
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_rqr0jtT.png?alt=media" alt="2024 september day 21" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_VR2hWih.png?alt=media" alt="2024 september day 22" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_qMkt64h.png?alt=media" alt="2024 september day 23" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_ItWdzDi.png?alt=media" alt="2024 september day 24" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_NxChpMz.png?alt=media" alt="2024 september day 25" width="150" height="100">
+</div>
+
+<div>
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_TA6B8dy.png?alt=media" alt="2024 september day 26" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_G1KGgcZ.png?alt=media" alt="2024 september day 27" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_d4ITazi.png?alt=media" alt="2024 september day 28" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_HBjENbv.png?alt=media" alt="2024 september day 29" width="150" height="100">
+  <img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_mLCsINA.png?alt=media" alt="2024 september day 30" width="150" height="100">
+</div>
+
+
 <!-- Template
 # Month Year
 <div>
