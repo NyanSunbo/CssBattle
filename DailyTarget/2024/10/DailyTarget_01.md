@@ -2,36 +2,25 @@
 
 [Link to problem](https://cssbattle.dev/play/NUzq6e8A7O0JACbDXI1c)
 
-![target](https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_NFE1m4R.png?alt=media)
+![target](https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_C7gtLC8.png?alt=media)
 
 ```
-<div><p><h1></div>
-<div id='a'><p><h1></div>
-<h2>
+<h1><h2><h3>
 <style>
-body{background:#3F4869}
-p{
-    width:120;
-    height:120;
-    background:#E25C57;
-    border-radius:0 120px 0 0;
-    margin:30 161;
-}
-h1{
-    width:60;
-    height:60;
-    background:#3F4869;
-    border-radius:0 60px 0 0;
-    margin:-90 161;
-}
-#a{
-  transform:scaleX(-1) translate(1px, 60px);
+*{background:#243D83}
+h1,h3{
+    width:200;
+    height:100;
+    background:#6592CF;
+    box-shadow:350px 0px #6592CF;
+    margin:-33 -83px;
 }
 h2{
-    width:60;
-    height:60;
-    background:#F4DA64;
-    margin:90 222
+  width:150;
+  height:150;
+  border-radius:100%;
+  border:50px solid #6592CF;
+  margin:-50px 67;
 }
 </style>
 ```
