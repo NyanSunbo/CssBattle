@@ -32,5 +32,5 @@ h3{
   margin:97 92;
   z-index:2;
 }
-</style>ก
+</style>
 ```
