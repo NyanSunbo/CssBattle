@@ -1,4 +1,4 @@
-# CSS Battle Daily Target - 2024/10/12
+# CSS Battle Daily Target - 2024/10/14
 
 [Link to problem](https://cssbattle.dev/play/5mnVFD53zr9V7mETCRbS)
 
