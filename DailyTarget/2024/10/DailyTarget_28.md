@@ -5,7 +5,6 @@
 ![target](https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_2ndGITJ.png?alt=media)
 
 
-
 ```
 <p><h1>
 <style>
